@@ -1,4 +1,6 @@
 {
+   "second" : "segundo",
+   "first" : "primero",
    "serverInternalError" : "Error de servidor interno {{message}}",
    "required" : "{{field}} es requerido",
    "chooseIcon" : "Por favor escoge un ícono",

@@ -1,4 +1,6 @@
 {
+  "second": "second",
+  "first": "first",
   "serverInternalError": "Internal Server Error {{message}}",
   "required": "{{field}} is required",
   "chooseIcon": "Choose Icon",

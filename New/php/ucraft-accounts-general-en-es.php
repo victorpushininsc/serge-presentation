@@ -1,4 +1,5 @@
 <?php
+
 return array(
     'login_disabled'              => 'Los modos de edición Ucraft no están disponibles mientras se realiza la actualización de rendimiento. Comprueba el estado aquí: status.ucraft.com',
     'done'                        => 'Hecho',
@@ -97,3 +98,4 @@ return array(
     'deleting_last_owner'         => 'La acción no se puede realizar porque el usuario es el único propietario de los siguientes sitios web: :sites',
     'payment_methods_limit'       => 'Demasiados intentos. Vuelve intentarlo mañana',
 );
+?>
